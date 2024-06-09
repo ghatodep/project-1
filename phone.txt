@@ -1,3 +1,5 @@
 phone created..
 
 media player added..
+
+fingerprint sensor added..
